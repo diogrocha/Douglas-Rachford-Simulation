@@ -4,3 +4,5 @@ equation in three dimensions with finite differences at different boundary condi
 
 PS: You can run it in a Spyder Distribution. 
 
+Diogo M.P. Rocha
+2018/08
